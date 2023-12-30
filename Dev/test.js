@@ -1,7 +1,7 @@
 const Blockchain = require('./blockchain');
 
 
-const bitcoin = new Blockchain();            //Instance of our Blockchain
+const bitcoin = new Blockchain();
 
 const bc1 = {
     "chain": [
